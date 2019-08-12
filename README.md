@@ -1,4 +1,4 @@
-# Desenvolvimento Mobile com Kotlin😄 
+# Desenvolvimento Android com Kotlin😄 
 
 <p align="center">
 <img src="https://miro.medium.com/max/1200/1*c-dfNp_RM7MLP95LhnAwWA.png" width="52%"  />
