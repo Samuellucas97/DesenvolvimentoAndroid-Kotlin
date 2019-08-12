@@ -7,7 +7,7 @@
 
 ## Introdução  
   
-Contém as atividades desenvolvidas na disciplina de **Desenvolvimento de Dispositivos Móveis* ministrada pelo professor Emerson do Instituto Metrópole Digital (IMD) - UFRN.
+Contém as atividades desenvolvidas na disciplina de *Desenvolvimento de Dispositivos Móveis* ministrada pelo professor Emerson do Instituto Metrópole Digital (IMD) - UFRN.
 
 ## Referência  
 :link:[Kotlin - Documentação oficial](https://kotlinlang.org/docs/reference/)
